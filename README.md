@@ -5,7 +5,7 @@ I'm a fullstack web developer and my best stack is js + Vue << also js 👌😜
 I've love to study tecnology and how it makes the world change! 🚀<br>
 - Currently i'm working harder to learn some front-end tecnologies as Flutter (what i really enjoying) and also increase my knowledge in some 
 back-end tecnologies as node.js and docker
-- If you need to reach me just call me on my e-mail or LinkedIn (just click on the media buttons up here);
+- If you need to reach me just call me on my e-mail or LinkedIn (just click on the media buttons below);
 
 <div>
   <a href="https://github.com/Luckmenez">
