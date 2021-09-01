@@ -1,4 +1,11 @@
-### Olá, eu sou o Lucas! 👋
+### Hello there, i'm Lucas! 👋
+
+I'm a fullstack web developer and my best stack is js + Vue << also js 👌😜
+    
+I've love to study tecnology and how it makes the world change! 🚀<br>
+- Currently i'm working harder to learn some front-end tecnologies as Flutter (what i really enjoying) and also increase my knowledge in some 
+back-end tecnologies as node.js and docker
+- If you need to reach me just call me on my e-mail or LinkeIn (just click on the media buttons up here);
 
 <div>
   <a href="https://github.com/Luckmenez">
@@ -20,9 +27,8 @@
   <a href="mailto:luckmenez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-
-
-![Snake animation](https://github.com/Luckmenez/Luckmenez/blob/output/github-contribution-grid-snake.svg)
+    
+ ![Snake animation](https://github.com/Luckmenez/Luckmenez/blob/output/github-contribution-grid-snake.svg);
 
 
 
