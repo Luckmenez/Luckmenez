@@ -28,7 +28,7 @@ back-end tecnologies as node.js and docker
 </div>
 
     
- ![Snake animation](https://github.com/Luckmenez/Luckmenez/blob/output/github-contribution-grid-snake.svg);
+ ![Snake animation](https://github.com/Luckmenez/Luckmenez/blob/output/github-contribution-grid-snake.svg)
 
 
 
